@@ -31,8 +31,8 @@ A professional-grade, AI-driven dashboard that evaluates business viability by a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/market-opportunity-agent.git
-   cd market-opportunity-agent
+   git clone https://github.com/yourusername/market-opportunity-check.git
+   cd market-opportunity-check
    ```
 
 2. **Create a virtual environment**:
